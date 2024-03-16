@@ -9,50 +9,15 @@ its cool trust me
 
 Win 95 in your terminal:  (<iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>)
 
-ball:(<!DOCTYPE html>
+Goodbye (<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Crazy Animation</title>
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #000;
-  }
-  
-  .crazy-element {
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    background-color: #ff00ff;
-    border-radius: 50%;
-    animation: crazyMove 2s infinite linear alternate;
-  }
-  
-  @keyframes crazyMove {
-    0% {
-      transform: translate(0, 0) rotate(0deg);
-    }
-    25% {
-      transform: translate(50%, 50%) rotate(90deg);
-    }
-    50% {
-      transform: translate(100%, 0) rotate(180deg);
-    }
-    75% {
-      transform: translate(50%, -50%) rotate(270deg);
-    }
-    100% {
-      transform: translate(0, 0) rotate(360deg);
-    }
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goodbye</title>
 </head>
 <body>
-<div class="crazy-element"></div>
+    <h1>Goodbye</h1>
+    <p>It's time to say farewell.</p>
 </body>
 </html>)
-
