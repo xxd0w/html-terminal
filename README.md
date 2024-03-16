@@ -9,7 +9,7 @@ its cool trust me
 
 Win 95 in your terminal:  (<iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>)
 
-ball: (<!DOCTYPE html>
+ball:(<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
